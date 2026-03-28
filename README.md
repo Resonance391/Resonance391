@@ -8,12 +8,12 @@
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TraiNguyen391&theme=radical&margin-w=10&margin-h=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Resonance391&theme=radical&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TraiNguyen391&label=Profile%20views&color=00f0ff&style=flat-square" alt="TraiNguyen391" />
+  <img src="https://komarev.com/ghpvc/?username=Resonance391&label=Profile%20views&color=00f0ff&style=flat-square" alt="Resonance391" />
 </p>
 
 ---
@@ -60,9 +60,9 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TraiNguyen391&theme=neon&show_icons=true&locale=en&layout=compact&border_radius=12" alt="Top Languages" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=TraiNguyen391&theme=neon&show_icons=true&locale=en&border_radius=12" alt="Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TraiNguyen391&theme=neon&border_radius=12" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Resonance391&theme=neon&show_icons=true&locale=en&layout=compact&border_radius=12" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Resonance391&theme=neon&show_icons=true&locale=en&border_radius=12" alt="Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Resonance391&theme=neon&border_radius=12" alt="Streak" />
 </div>
 
 ---
