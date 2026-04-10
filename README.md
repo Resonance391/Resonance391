@@ -8,9 +8,8 @@
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Resonance391&theme=radical&margin-w=10&margin-h=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Resonance391&theme=onedark&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
-
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Resonance391&label=Profile%20views&color=00f0ff&style=flat-square" alt="Resonance391" />
