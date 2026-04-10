@@ -8,7 +8,7 @@
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Resonance391&theme=onedark" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Resonance391&theme=onedark&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
 <!-- Profile Views -->
 <p align="center">
